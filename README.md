@@ -2,7 +2,7 @@
 
 <center><img src='https://github.com/awesome-tips/flutter-resources/blob/master/images/icon.png?raw=true' height='120' width='120'/></center>
 
-Flutter 开发资源聚集地，主要收录 Flutter 开发相关资源。
+Flutter 开发资源聚集地，主要收录 Flutter 开发相关资源。如果大家有好的推荐，包括视频、社区、公众号、博客，可以给我们提 `issue` 或者 `PR`，我们会及时更新。
 
 ## awesome-flutter
 
@@ -27,9 +27,11 @@ Flutter 开发资源聚集地，主要收录 Flutter 开发相关资源。
 
 ## 中文社区
 
-* [Flutter 中文网](https://flutterchina.club)：Flutter中文网是中国最大的Flutter开发者交流学习平台，致力于打造Flutter开发中文社区。在这里能轻松找到代码实例、项目案例、并有专人提供最新文档翻译。
+* [Flutter 中文网](https://flutterchina.club)：Flutter中文网是中国最大的 Flutter 开发者交流学习平台，致力于打造 Flutter 开发中文社区。在这里能轻松找到代码实例、项目案例、并有专人提供最新文档翻译。
 
 ## 公众号
+
+这里推荐一些有涉及到 Flutter 技术的公众号，包括阿里闲鱼团队、京东金融App团队，当然也包含我们 「 知识小集 」 的公众号。
 
 <table>
 
@@ -56,5 +58,9 @@ Flutter 开发资源聚集地，主要收录 Flutter 开发相关资源。
 ## 博客
 
 * [Flutter.link](http://flutter.link)
+
+## 微信群
+
+另外，为了方便沟通，我们建了一个微信群 **「 知识小集 · Flutter 自习室 」** ，目前已达到扫码加群上限，需要好友邀请。有兴趣的小伙伴可以先加好友 `coldlight_hh` (南峰子) ，然后邀请您入群。群里面的小伙伴也可以直接邀请好友入群。
 
 
