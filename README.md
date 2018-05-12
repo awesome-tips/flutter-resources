@@ -36,6 +36,10 @@ Flutter 开发资源聚集地，主要收录 Flutter 开发相关资源。如果
 
 * [dartlang.cc](http://www.dartlang.cc/)
 
+## Demo
+
+* [Flutter Gallery](https://www.coolapk.com/apk/io.flutter.demo.gallery)：Flutter Gallery 是来自 Google Sample 的开源跨平台框架，它可以帮助开发者更好地在 Android 和 iOS 上开发高性能的应用。链接给出的是 **`酷安`** 下载地址，他们会及时保持跟 Play 上 Flutter 这个 Demo App 的更新。
+
 ## 公众号
 
 这里推荐一些有涉及到 Flutter 技术的公众号，包括阿里闲鱼团队、京东金融App团队，当然也包含我们 「 知识小集 」 的公众号。
