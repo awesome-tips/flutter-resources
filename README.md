@@ -1,6 +1,6 @@
 # Flutter 资源聚集地
 
-<center><img src='https://github.com/awesome-tips/flutter-resources/blob/master/images/icon.png?raw=true' height='120' width='120'/></center>
+<p align='center'><img src='https://github.com/awesome-tips/flutter-resources/blob/master/images/icon.png?raw=true' height='120' width='120'/></p>
 
 Flutter 开发资源聚集地，主要收录 Flutter 开发相关资源。如果大家有好的推荐，包括视频、社区、公众号、博客，可以给我们提 `issue` 或者 `PR`，我们会及时更新。
 
