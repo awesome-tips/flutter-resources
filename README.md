@@ -70,6 +70,10 @@ Flutter 开发资源聚集地，主要收录 Flutter 开发相关资源。如果
 
 * [Flutter.link](http://flutter.link)
 
+## 开源代码
+
+* [FlutterOSC](https://github.com/yubo725/FlutterOSC)：基于Google Flutter的开源中国客户端，支持Android和iOS
+
 ## 微信群
 
 另外，为了方便沟通，我们建了一个微信群 **「 知识小集 · Flutter 自习室 」** ，目前已达到扫码加群上限，需要好友邀请。有兴趣的小伙伴可以先加好友 `coldlight_hh` (南峰子) 或者 `bob5201215` (zb)，然后邀请您入群。加好友时请注明 "Flutter 自习室 入群" 哈。群里面的小伙伴也可以直接邀请好友入群。
