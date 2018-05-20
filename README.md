@@ -70,6 +70,13 @@ Flutter 开发资源聚集地，主要收录 Flutter 开发相关资源。如果
 
 * [Flutter.link](http://flutter.link)
 
+## 文章
+
+* [为什么Flutter会选择 Dart ？](http://www.infoq.com/cn/articles/why-flutter-uses-dart)
+* [深入了解Flutter界面开发](https://mp.weixin.qq.com/s/z2r2OmnY7r7dQrkO8ndkFQ)
+* [为什么说Flutter让移动开发变得更好？](# 为什么说Flutter让移动开发变得更好？)
+* [下一代移动端跨平台框架-Flutter大解密](https://mp.weixin.qq.com/s/ZMp2fSOTlYkZ_aNIOrUZdw)
+
 ## 开源代码
 
 * [FlutterOSC](https://github.com/yubo725/FlutterOSC)：基于Google Flutter的开源中国客户端，支持Android和iOS
