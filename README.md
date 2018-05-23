@@ -81,6 +81,7 @@ Flutter 开发资源聚集地，主要收录 Flutter 开发相关资源。如果
 * [使用 Flutter 开发知识小集 iOS/Android 客户端](https://juejin.im/post/5afb77126fb9a07aa83ee586)
 * [Flutter Beta 3 新特性概览](https://juejin.im/post/5af3ca9af265da0b736daa49)
 * [Flutter Plugin开发流程](https://juejin.im/post/5af6e858f265da0b736dbac0)
+* [Flutter - 不一样的跨平台解决方案](https://juejin.im/post/5afd77466fb9a07aab2a12da)
 
 ## 开源代码
 
