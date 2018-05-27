@@ -90,6 +90,10 @@ Flutter 开发资源聚集地，主要收录 Flutter 开发相关资源。如果
 * [Flutter Plugin开发流程](https://juejin.im/post/5af6e858f265da0b736dbac0)
 * [Flutter - 不一样的跨平台解决方案](https://juejin.im/post/5afd77466fb9a07aab2a12da)
 
+* [Flutter hands on: Building a News App](https://blog.geekyants.com/flutter-hands-on-building-a-news-app-fe233027185f)
+* [Getting Started with Flutter](https://www.raywenderlich.com/188257/getting-started-with-flutter)
+* [Flutter Navigation Tutorial](https://www.raywenderlich.com/189118/flutter-navigation)
+
 ## 开源代码
 
 * [FlutterOSC](https://github.com/yubo725/FlutterOSC)：基于Google Flutter的开源中国客户端，支持Android和iOS
