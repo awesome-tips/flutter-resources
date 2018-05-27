@@ -31,14 +31,21 @@ Flutter 开发资源聚集地，主要收录 Flutter 开发相关资源。如果
 
 * [Flutter 中文网](https://flutterchina.club)：Flutter中文网是中国最大的 Flutter 开发者交流学习平台，致力于打造 Flutter 开发中文社区。在这里能轻松找到代码实例、项目案例、并有专人提供最新文档翻译。
 * [Flutter Codelabs](https://codelabs.flutter-io.cn/)：为国内 Flutter 开发人员创建的 `codelab` 镜像站点。
+* [Flutter 中文开发者论坛](http://flutter-dev.cn/)：里面不少资源，还有一些系列文章。
 
 ### Dart
 
 * [dartlang.cc](http://www.dartlang.cc/)
 
+## 英文社区
+
+* [Start Flutter](https://startflutter.com/)：Start Flutter is a library of free to download Flutter templates. All themes are open source for any use, even commercial.
+
 ## Demo
 
 * [Flutter Gallery](https://www.coolapk.com/apk/io.flutter.demo.gallery)：Flutter Gallery 是来自 Google Sample 的开源跨平台框架，它可以帮助开发者更好地在 Android 和 iOS 上开发高性能的应用。链接给出的是 **`酷安`** 下载地址，他们会及时保持跟 Play 上 Flutter 这个 Demo App 的更新。
+* [Readhub Flutter](https://github.com/flyou/readhub_flutter)：Readhub 非官方客户端。
+* [FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)：This repository containing links of all the example apps demonstrating features/functionality/integrations in Flutter application development.
 
 ## 公众号
 
